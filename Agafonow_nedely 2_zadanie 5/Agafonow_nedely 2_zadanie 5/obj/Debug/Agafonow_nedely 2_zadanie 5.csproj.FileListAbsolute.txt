@@ -1,0 +1,8 @@
+D:\C#\Agafonow_nedely 2_zadanie 5\Agafonow_nedely 2_zadanie 5\bin\Debug\Agafonow_nedely 2_zadanie 5.exe.config
+D:\C#\Agafonow_nedely 2_zadanie 5\Agafonow_nedely 2_zadanie 5\bin\Debug\Agafonow_nedely 2_zadanie 5.exe
+D:\C#\Agafonow_nedely 2_zadanie 5\Agafonow_nedely 2_zadanie 5\bin\Debug\Agafonow_nedely 2_zadanie 5.pdb
+D:\C#\Agafonow_nedely 2_zadanie 5\Agafonow_nedely 2_zadanie 5\obj\Debug\Agafonow_nedely 2_zadanie 5.csproj.AssemblyReference.cache
+D:\C#\Agafonow_nedely 2_zadanie 5\Agafonow_nedely 2_zadanie 5\obj\Debug\Agafonow_nedely 2_zadanie 5.csproj.SuggestedBindingRedirects.cache
+D:\C#\Agafonow_nedely 2_zadanie 5\Agafonow_nedely 2_zadanie 5\obj\Debug\Agafonow_nedely 2_zadanie 5.csproj.CoreCompileInputs.cache
+D:\C#\Agafonow_nedely 2_zadanie 5\Agafonow_nedely 2_zadanie 5\obj\Debug\Agafonow_nedely 2_zadanie 5.exe
+D:\C#\Agafonow_nedely 2_zadanie 5\Agafonow_nedely 2_zadanie 5\obj\Debug\Agafonow_nedely 2_zadanie 5.pdb
