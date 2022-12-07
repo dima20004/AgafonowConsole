@@ -1,0 +1,8 @@
+D:\C#\Agafonow_nedely 2_zadanie 6_3\Agafonow_nedely 2_zadanie 6_3\bin\Debug\Agafonow_nedely 2_zadanie 6_3.exe.config
+D:\C#\Agafonow_nedely 2_zadanie 6_3\Agafonow_nedely 2_zadanie 6_3\bin\Debug\Agafonow_nedely 2_zadanie 6_3.exe
+D:\C#\Agafonow_nedely 2_zadanie 6_3\Agafonow_nedely 2_zadanie 6_3\bin\Debug\Agafonow_nedely 2_zadanie 6_3.pdb
+D:\C#\Agafonow_nedely 2_zadanie 6_3\Agafonow_nedely 2_zadanie 6_3\obj\Debug\Agafonow_nedely 2_zadanie 6_3.csproj.AssemblyReference.cache
+D:\C#\Agafonow_nedely 2_zadanie 6_3\Agafonow_nedely 2_zadanie 6_3\obj\Debug\Agafonow_nedely 2_zadanie 6_3.csproj.SuggestedBindingRedirects.cache
+D:\C#\Agafonow_nedely 2_zadanie 6_3\Agafonow_nedely 2_zadanie 6_3\obj\Debug\Agafonow_nedely 2_zadanie 6_3.csproj.CoreCompileInputs.cache
+D:\C#\Agafonow_nedely 2_zadanie 6_3\Agafonow_nedely 2_zadanie 6_3\obj\Debug\Agafonow_nedely 2_zadanie 6_3.exe
+D:\C#\Agafonow_nedely 2_zadanie 6_3\Agafonow_nedely 2_zadanie 6_3\obj\Debug\Agafonow_nedely 2_zadanie 6_3.pdb
