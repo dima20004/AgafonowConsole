@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agafonow_nedely 4_nedely 12", "Agafonow_nedely 4_nedely 12\Agafonow_nedely 4_nedely 12.csproj", "{A0318889-4BD6-44CF-A3A6-A23B4750A0EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0318889-4BD6-44CF-A3A6-A23B4750A0EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0318889-4BD6-44CF-A3A6-A23B4750A0EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0318889-4BD6-44CF-A3A6-A23B4750A0EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0318889-4BD6-44CF-A3A6-A23B4750A0EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3DF67DA-F310-4A13-9E6F-F9C6B0F6A187}
+	EndGlobalSection
+EndGlobal

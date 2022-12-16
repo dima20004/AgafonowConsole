@@ -1,0 +1,8 @@
+D:\C#\Agafonow_nedely 4_nedely 13\Agafonow_nedely 4_nedely 12\bin\Debug\Agafonow_nedely 4_nedely 12.exe.config
+D:\C#\Agafonow_nedely 4_nedely 13\Agafonow_nedely 4_nedely 12\bin\Debug\Agafonow_nedely 4_nedely 12.exe
+D:\C#\Agafonow_nedely 4_nedely 13\Agafonow_nedely 4_nedely 12\bin\Debug\Agafonow_nedely 4_nedely 12.pdb
+D:\C#\Agafonow_nedely 4_nedely 13\Agafonow_nedely 4_nedely 12\obj\Debug\Agafonow_nedely 4_nedely 12.csproj.AssemblyReference.cache
+D:\C#\Agafonow_nedely 4_nedely 13\Agafonow_nedely 4_nedely 12\obj\Debug\Agafonow_nedely 4_nedely 12.csproj.SuggestedBindingRedirects.cache
+D:\C#\Agafonow_nedely 4_nedely 13\Agafonow_nedely 4_nedely 12\obj\Debug\Agafonow_nedely 4_nedely 12.csproj.CoreCompileInputs.cache
+D:\C#\Agafonow_nedely 4_nedely 13\Agafonow_nedely 4_nedely 12\obj\Debug\Agafonow_nedely 4_nedely 12.exe
+D:\C#\Agafonow_nedely 4_nedely 13\Agafonow_nedely 4_nedely 12\obj\Debug\Agafonow_nedely 4_nedely 12.pdb
